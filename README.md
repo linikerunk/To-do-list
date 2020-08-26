@@ -1,5 +1,2 @@
-```sh
-export FLASK_APP=app
-export FLASK_ENV=Development
-export FLASK_DEBUG=True
-``` 
+# first Time that I was using a Fast API, it's look incredible..
+# to do list with fast API
