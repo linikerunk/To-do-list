@@ -3,7 +3,8 @@ from typing import Optional
 from pydantic import BaseModel, validator
 
 
-# Create your Models here
+# Create your Models here.
+
 class TagModel(BaseModel):
     id: int
     name: str
